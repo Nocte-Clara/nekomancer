@@ -2,11 +2,11 @@
 
 ![cover-image](https://github.com/Nocte-Clara/nekomancer/assets/nekomancer_banner.png)
 
-Nekomancer: Paws of Light you play as a mystical cat wielding both the powers of necromancy and light. Armed with a magical lantern, you must navigate treacherous dungeons, solve puzzles, and outmaneuver lurking enemies using light-based mechanics. 
+Nekomancer: Paws of Light let's you play as a mystical cat wielding both the powers of necromancy and light. Armed with a magical lantern, you must navigate treacherous dungeons, solve puzzles, and outmaneuver lurking enemies using light-based mechanics. 
+
+This repository contains the work done to develop the game in Unreal Engine as part of our ongoing project
 
 Our plan is to make this a cooperative experience later on down the line with roguelike elements!
-
-This repository represents the work done to develop the game using Unreal Engine as part of an ongoing project.
 
 ## Table of Contents
 
