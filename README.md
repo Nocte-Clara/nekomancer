@@ -1,6 +1,6 @@
 # Nekomancer: Paws of Light
 
-![cover-image](https://github.com/Nocte-Clara/nekomancer/assets/nekomancer_banner.png)
+![cover-image](https://github.com/Nocte-Clara/nekomancer/blob/main/assets/nekomancer_banner.png)
 
 Nekomancer: Paws of Light let's you play as a mystical cat wielding both the powers of necromancy and light. Armed with a magical lantern, you must navigate treacherous dungeons, solve puzzles, and outmaneuver lurking enemies using light-based mechanics. 
 
@@ -38,7 +38,7 @@ As you explore, you must master the balance between illuminating the path and av
 
 *Use your magical lantern to light up dark areas, solve puzzles, and manipulate your surroundings.*
 
-![gameplay-screenshot](https://github.com/Nocte-Clara/nekomancer/assets/nekomancer_screenshot01.png)
+![gameplay-screenshot](https://github.com/Nocte-Clara/nekomancer/blob/main/assets/nekomancer_screenshot01.png)
 
 ### Core Mechanics:
 - **Lantern Tossing** – Throw your lantern to light up distant areas, revealing paths and activating mechanisms. Be careful where you leave your lantern.
