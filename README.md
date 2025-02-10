@@ -6,8 +6,6 @@ Nekomancer: Paws of Light let's you play as a mystical cat wielding both the pow
 
 This repository contains the work done to develop the game in Unreal Engine as part of our ongoing project
 
-Our plan is to make this a cooperative experience later on down the line with roguelike elements!
-
 ## Table of Contents
 
 1. [About the game](#the-game)
