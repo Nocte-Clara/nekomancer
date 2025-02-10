@@ -63,7 +63,7 @@ For now, you can clone the repository and run it using Unreal Engine.
 If you want to contribute, have a look at the files available in the [Documentation](https://github.com/Nocte-Clara/nekomancer/docs), this will help you get you started.
 
 
-Found a bug or have a suggestion? Open an issue on [GitHub Issues](https://github.com/Nocte-Clara/nekomancer/issues) or join our discussion!
+Found a bug or have a suggestion? Open an issue on [GitHub Issues](https://github.com/Nocte-Clara/nekomancer/issues)!
 
 ---
 
